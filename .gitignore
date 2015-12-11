@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+titas-domestic-billing.iml
+
+### Config file
+src/main/resources/application.properties
+
+### IDE config
+.classpath
+.project
+.settings/
